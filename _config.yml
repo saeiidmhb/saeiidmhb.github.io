@@ -66,7 +66,7 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Kubernetes - Docker - Linux Administration - Bash Scripting - Python - Powershell - ELK Stack - Fluentd - Prometheus & Grafana - Zabbix - Ansible - Terraform - AWS Administration - Git/Gitlab - Jenkins - Microsoft Azure Devops - ArgoCD - Nginx - HAproxy - Apache web server - IIS - Kafka - RabbitMQ - Redis - Nexus Repository - Windows server administration - SonarQube - Mysql - Mssql
+          <mark>Kubernetes</mark> - <mark>Docker</mark> - <mark>Linux Administration</mark> - <mark>Bash Scripting</mark> - <mark>Python</mark> - <mark>Powershell</mark> - <mark>ELK Stack</mark> - <mark>Fluentd</mark> - <mark>Prometheus & Grafana</mark> - <mark>Zabbix</mark> - <mark>Ansible</mark> - <mark>Terraform</mark> - <mark>AWS Administration</mark> - <mark>Git/Gitlab</mark> - <mark>Jenkins</mark> - <mark>Microsoft Azure Devops</mark> - <mark>ArgoCD</mark> - <mark>Nginx</mark> - <mark>HAproxy</mark> - <mark>Apache web server</mark> - <mark>IIS</mark> - <mark>Kafka</mark> - <mark>RabbitMQ</mark> - <mark>Redis</mark> - <mark>Nexus Repository</mark> - <mark>Windows server administration</mark> - <mark>SonarQube</mark> - <mark>Mysql</mark> - <mark>Mssql</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,19 +80,19 @@ content:
         #quote: >
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Configured and hardened Linux and Windows servers for launching applications.
+          - Configured and hardened Linux and Windows servers for launching applications.
 
-            Gathered and analyzed system and application logs using the ELK stack, resulting in more efficient troubleshooting and issue resolution.
+          - Gathered and analyzed system and application logs using the ELK stack, resulting in more efficient troubleshooting and issue resolution.
 
-            Launched system monitoring and alerting with Prometheus, Grafana, and Zabbix, increasing system uptime and reliability.
+          - Launched system monitoring and alerting with Prometheus, Grafana, and Zabbix, increasing system uptime and reliability.
 
-            Dockerized projects and deployed them on a multi-master Kubernetes environment, improving scalability and resource utilization.
+          - Dockerized projects and deployed them on a multi-master Kubernetes environment, improving scalability and resource utilization.
 
-            Launched and maintained Kubernetes infrastructure and architecture, ensuring smooth and stable operation of the platform.
+          - Launched and maintained Kubernetes infrastructure and architecture, ensuring smooth and stable operation of the platform.
 
-            Developed automation scripts using Python and Bash, also used Jenkins, Ansible, and other tools to reduce manual tasks and increase efficiency.
+          - Developed automation scripts using Python and Bash, also used Jenkins, Ansible, and other tools to reduce manual tasks and increase efficiency.
 
-            Implemented CI/CD pipelines for application deployment using Git, Tfvs, Azure DevOps, and Jenkins, reducing deployment time and improving the release process.
+          - Implemented CI/CD pipelines for application deployment using Git, Tfvs, Azure DevOps, and Jenkins, reducing deployment time and improving the release process.
       - layout: left
         title:  Snapp
         #link: boringcompany.com
@@ -102,13 +102,13 @@ content:
         #quote: >
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | 
-            Worked on automatic deployment with GitLab, streamlining the deployment process and improving efficiency.
+          - Worked on automatic deployment with GitLab, streamlining the deployment process and improving efficiency.
 
-            Orchestrated containers with Openshift, ensuring smooth operation and scaling of containerized applications.
+          - Orchestrated containers with Openshift, ensuring smooth operation and scaling of containerized applications.
 
-            Utilized Prometheus, Grafana, and Netdata for service monitoring and alert management, providing real-time visibility into system performance and availability.
+          - Utilized Prometheus, Grafana, and Netdata for service monitoring and alert management, providing real-time visibility into system performance and availability.
 
-            Collaborated closely with developers in troubleshooting bugs and operational issues, resulting in faster resolution of problems and improved system reliability.
+          - Collaborated closely with developers in troubleshooting bugs and operational issues, resulting in faster resolution of problems and improved system reliability.
       - layout: left
         title:  Asa Co
         #link: boringcompany.com
@@ -118,37 +118,44 @@ content:
         #quote: >
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - Completed comprehensive software testing courses and gained hands-on experience in manual testing, bug reporting, and debugging.
+          - Completed comprehensive software testing courses and gained hands-on experience in manual testing, bug reporting, and debugging.
 
-           - Automated tests for mobile applications' APIs using Python and Postman, reducing testing time by 50% and improving testing accuracy and reliability.
+          - Automated tests for mobile applications' APIs using Python and Postman, reducing testing time by 50% and improving testing accuracy and reliability.
 
-           - Designed and developed comprehensive test cases and test scenarios, ensuring effective testing coverage and efficient testing processes.
+          - Designed and developed comprehensive test cases and test scenarios, ensuring effective testing coverage and efficient testing processes.
+
+  - title: Courses and Certificates
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - DevOps Beginners to Advanced | Decoding DevOps with Projects Via Udemy
+      - LPIC-1(Linux system administration), LPIC-303(linux security and hardenind) Via Fanavaran Anisa
+      - Bash Scripting and Shell Programming (Linux Command Line) Via Udemy
+      - The Ultimate Kubernetes Administrator Course | CKA Via TechWorld with Nana and Fanavaran Anisa
+      - DevOps Engineer-Docker Via Fanavaran Anisa
+      - Ansible Advanced - Hands-On - DevOps Via Udemy
+      - Prometheus | The Complete Hands-On for Monitoring & Alerting Via Udemy
+      - Zabbix Monitoring Via Fanavaran Anisa
+      - Data Processing with Logstash (and Filebeat) Via Udemy
+      - Logging in Kubernetes with EFK Stack Via Udemy
+      - Android Pack (Basic Java + Basic Android) Via Kahkeshan Noor
+      - SQL Design & MCSA Web Application Via Kahkeshan Noor
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Islamic Azad University
+        caption: 2013 - 2017
+        sub_title: Bachelor's degree in Computer Engineering
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: Allameh Amini High School
+        caption: 2013 - 2017
+        sub_title: Diploma
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: flase
