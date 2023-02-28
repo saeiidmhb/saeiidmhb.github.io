@@ -1,31 +1,30 @@
 # Site
-repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Saeed Mohebbi
+title: Devops/SRE
+email: saeiidmhb@gmail.com
+website: www.github.com/saeiidmhb
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  saeiidmhb
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: Saeed Mohebbi
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,10 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  As a DevOps engineer, I am dedicated to continuous improvement in my work. With experience in server configuration, security, and administration for both Linux and Windows environments, I have successfully launched and maintained system monitoring solutions. I have also leveraged containerization technology to deploy projects on Kubernetes and AWS. In addition to my technical skills, I am passionate about personal growth, and I am committed to staying up-to-date with the latest trends.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -76,15 +72,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title:  Asa Co
+        #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: DevOps Engineer
+        caption: Dec 2019 - Present
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Configured and hardened Linux and Windows servers for launching applications.
+            Gathered and analyzed system and application logs using the ELK stack, resulting in more efficient troubleshooting and issue resolution.
+            Launched system monitoring and alerting with Prometheus, Grafana, and Zabbix, increasing system uptime and reliability.
+            Dockerized projects and deployed them on a multi-master Kubernetes environment, improving scalability and resource utilization.
+            Launched and maintained Kubernetes infrastructure and architecture, ensuring smooth and stable operation of the platform.
+            Developed automation scripts using Python and Bash, also used Jenkins, Ansible, and other tools to reduce manual tasks and increase efficiency.
+            Implemented CI/CD pipelines for application deployment using Git, Tfvs, Azure DevOps, and Jenkins, reducing deployment time and improving the release process.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
