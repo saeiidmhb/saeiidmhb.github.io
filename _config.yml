@@ -49,24 +49,24 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   As a DevOps engineer, I am dedicated to continuous improvement in my work. With experience in server configuration, security, and administration for both Linux and Windows environments, I have successfully launched and maintained system monitoring solutions. I have also leveraged containerization technology to deploy projects on Kubernetes and AWS. In addition to my technical skills, I am passionate about personal growth, and I am committed to staying up-to-date with the latest trends.
 content:
-  - title: Projects # Title for the section
+  - title: Key Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        #title: Super awesome project
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #wadditional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Kubernetes - Docker - Linux Administration - Bash Scripting - Python - Powershell - ELK Stack - Fluentd - Prometheus & Grafana - Zabbix - Ansible - Terraform - AWS Administration - Git/Gitlab - Jenkins - Microsoft Azure Devops - ArgoCD - Nginx - HAproxy - Apache web server - IIS - Kafka - RabbitMQ - Redis - Nexus Repository - Windows server administration - SonarQube - Mysql - Mssql
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -81,11 +81,17 @@ content:
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Configured and hardened Linux and Windows servers for launching applications.
+
             Gathered and analyzed system and application logs using the ELK stack, resulting in more efficient troubleshooting and issue resolution.
+
             Launched system monitoring and alerting with Prometheus, Grafana, and Zabbix, increasing system uptime and reliability.
+
             Dockerized projects and deployed them on a multi-master Kubernetes environment, improving scalability and resource utilization.
+
             Launched and maintained Kubernetes infrastructure and architecture, ensuring smooth and stable operation of the platform.
+
             Developed automation scripts using Python and Bash, also used Jenkins, Ansible, and other tools to reduce manual tasks and increase efficiency.
+
             Implemented CI/CD pipelines for application deployment using Git, Tfvs, Azure DevOps, and Jenkins, reducing deployment time and improving the release process.
       - layout: left
         title:  Snapp
@@ -97,8 +103,11 @@ content:
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | 
             Worked on automatic deployment with GitLab, streamlining the deployment process and improving efficiency.
+
             Orchestrated containers with Openshift, ensuring smooth operation and scaling of containerized applications.
+
             Utilized Prometheus, Grafana, and Netdata for service monitoring and alert management, providing real-time visibility into system performance and availability.
+
             Collaborated closely with developers in troubleshooting bugs and operational issues, resulting in faster resolution of problems and improved system reliability.
       - layout: left
         title:  Asa Co
@@ -108,9 +117,11 @@ content:
         caption: Aug 2019 - Dec 2019
         #quote: >
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:
+        description: |
            - Completed comprehensive software testing courses and gained hands-on experience in manual testing, bug reporting, and debugging.
+
            - Automated tests for mobile applications' APIs using Python and Postman, reducing testing time by 50% and improving testing accuracy and reliability.
+
            - Designed and developed comprehensive test cases and test scenarios, ensuring effective testing coverage and efficient testing processes.
 
   - title: Education # Title for the section
@@ -140,7 +151,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: flase
 # references_title: References on request (Override references text)
 
 # Build settings
