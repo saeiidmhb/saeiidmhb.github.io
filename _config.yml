@@ -21,7 +21,7 @@ github_username:  saeiidmhb
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: Saeed Mohebbi
+linkedin_username: saeed-mohebbi-a896b5196
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -29,10 +29,10 @@ linkedin_username: Saeed Mohebbi
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -87,6 +87,31 @@ content:
             Launched and maintained Kubernetes infrastructure and architecture, ensuring smooth and stable operation of the platform.
             Developed automation scripts using Python and Bash, also used Jenkins, Ansible, and other tools to reduce manual tasks and increase efficiency.
             Implemented CI/CD pipelines for application deployment using Git, Tfvs, Azure DevOps, and Jenkins, reducing deployment time and improving the release process.
+      - layout: left
+        title:  Snapp
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Part-time. Site Reliability Engineering
+        caption: Feb 2022 - May 2022
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | 
+            Worked on automatic deployment with GitLab, streamlining the deployment process and improving efficiency.
+            Orchestrated containers with Openshift, ensuring smooth operation and scaling of containerized applications.
+            Utilized Prometheus, Grafana, and Netdata for service monitoring and alert management, providing real-time visibility into system performance and availability.
+            Collaborated closely with developers in troubleshooting bugs and operational issues, resulting in faster resolution of problems and improved system reliability.
+      - layout: left
+        title:  Asa Co
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Software Test Engineer 
+        caption: Aug 2019 - Dec 2019
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description:
+           - Completed comprehensive software testing courses and gained hands-on experience in manual testing, bug reporting, and debugging.
+           - Automated tests for mobile applications' APIs using Python and Postman, reducing testing time by 50% and improving testing accuracy and reliability.
+           - Designed and developed comprehensive test cases and test scenarios, ensuring effective testing coverage and efficient testing processes.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
