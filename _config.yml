@@ -11,28 +11,28 @@ email: saeiidmhb@gmail.com
 skype: saeiidmhb
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-#twitter_username: facespics
+#twitter_username: 
 github_username:  saeiidmhb
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
 #instagram_username: jameswgrant
 linkedin_username: saeed-mohebbi-a896b5196
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
+# xing_username: 
+# pinterest_username: 
+#youtube_username: 
+# googleplus_username: +
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 #additional_links:
-#- title: itsgoingto.be
+#- title: 
 #  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+#  url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -54,15 +54,15 @@ content:
     content:
       - layout: top-middle
         #title: Super awesome project
-        #link: github.com/sproogen
+        #link: 
         # link_text: Project Website
         #wadditional_links:
-        #  - title:  sproogen/modern-resume-theme
+        #  - title:  
         #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    url: 
+          # - title:  
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          #   url: Link to project 
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
@@ -78,7 +78,7 @@ content:
         sub_title: DevOps Engineer
         caption: Dec 2019 - Present
         #quote: >
-         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         # 
         description: | # this will include new lines to allow paragraphs
           - Configured and hardened Linux and Windows servers for launching applications.
 
@@ -95,12 +95,12 @@ content:
           - Implemented CI/CD pipelines for application deployment using Git, Tfvs, Azure DevOps, and Jenkins, reducing deployment time and improving the release process.
       - layout: left
         title:  Snapp
-        #link: boringcompany.com
-        # link_text: boringcompany.com
+        #link: 
+        # link_text: 
         sub_title: Part-time. Site Reliability Engineering
         caption: Feb 2022 - May 2022
         #quote: >
-         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         # 
         description: | 
           - Worked on automatic deployment with GitLab, streamlining the deployment process and improving efficiency.
 
@@ -111,12 +111,12 @@ content:
           - Collaborated closely with developers in troubleshooting bugs and operational issues, resulting in faster resolution of problems and improved system reliability.
       - layout: left
         title:  Asa Co
-        #link: boringcompany.com
-        # link_text: boringcompany.com
+        #link: 
+        # link_text: 
         sub_title: Software Test Engineer 
         caption: Aug 2019 - Dec 2019
         #quote: >
-         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+         # 
         description: |
           - Completed comprehensive software testing courses and gained hands-on experience in manual testing, bug reporting, and debugging.
 
@@ -149,7 +149,7 @@ content:
         caption: 2013 - 2017
         sub_title: Bachelor's degree in Computer Engineering
         #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #  
         #description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Allameh Amini High School
