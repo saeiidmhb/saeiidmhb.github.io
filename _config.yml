@@ -127,13 +127,13 @@ content:
   - title: Courses and Certificates
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - DevOps Beginners to Advanced | Decoding DevOps with Projects Via Udemy
+      - DevOps Beginners to Advanced - Decoding DevOps with Projects Via Udemy
       - LPIC-1(Linux system administration), LPIC-303(linux security and hardenind) Via Fanavaran Anisa
       - Bash Scripting and Shell Programming (Linux Command Line) Via Udemy
-      - The Ultimate Kubernetes Administrator Course | CKA Via TechWorld with Nana and Fanavaran Anisa
+      - The Ultimate Kubernetes Administrator Course - CKA Via TechWorld with Nana and Fanavaran Anisa
       - DevOps Engineer-Docker Via Fanavaran Anisa
       - Ansible Advanced - Hands-On - DevOps Via Udemy
-      - Prometheus | The Complete Hands-On for Monitoring & Alerting Via Udemy
+      - Prometheus - The Complete Hands-On for Monitoring & Alerting Via Udemy
       - Zabbix Monitoring Via Fanavaran Anisa
       - Data Processing with Logstash (and Filebeat) Via Udemy
       - Logging in Kubernetes with EFK Stack Via Udemy
@@ -153,7 +153,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Allameh Amini High School
-        caption: 2013 - 2017
+        caption: 2011 - 2012
         sub_title: Diploma
 
 
