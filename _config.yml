@@ -128,7 +128,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - DevOps Beginners to Advanced - Decoding DevOps with Projects Via Udemy
-      - LPIC-1(Linux system administration), LPIC-303(linux security and hardenind) Via Fanavaran Anisa
+      - LPIC-1(Linux system administration), LPIC-303(Linux security and hardening) Via Fanavaran Anisa
       - Bash Scripting and Shell Programming (Linux Command Line) Via Udemy
       - The Ultimate Kubernetes Administrator Course - CKA Via TechWorld with Nana and Fanavaran Anisa
       - DevOps Engineer-Docker Via Fanavaran Anisa
